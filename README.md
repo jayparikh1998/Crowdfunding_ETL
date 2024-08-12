@@ -1,5 +1,5 @@
 # Crowdfunding ETL Mini Project
-# By Jay Parikh and Raji Sharu
+# By Jay Parikh
 This repository contains the code and files for the Crowdfunding ETL (Extract, Transform, Load) Mini Project. In this project, we will build an ETL pipeline using Python, Pandas, and various data manipulation techniques to extract data from Excel files, transform it, and load it into a Postgres database.
 
 ## Project Overview
